@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shewebux/static/css/main.0abd63be.css",
+    "main.js": "/shewebux/static/js/main.acb805c3.js",
+    "static/media/soft.jpg": "/shewebux/static/media/soft.44df2c330234756174f9.jpg",
+    "static/media/digi.jpg": "/shewebux/static/media/digi.63c2d264d9c7cabc0e77.jpg",
+    "static/media/app.png": "/shewebux/static/media/app.4faf146575b34803f197.png",
+    "static/media/img2.png": "/shewebux/static/media/img2.0e97b3bb6d561bc16fc6.png",
+    "static/media/s1.jpg": "/shewebux/static/media/s1.95f23195b2b13c090352.jpg",
+    "static/media/newimg.jpg": "/shewebux/static/media/newimg.8bf989b356bb839f24db.jpg",
+    "static/media/android.png": "/shewebux/static/media/android.0267af9236864aec12e6.png",
+    "static/media/market.jpg": "/shewebux/static/media/market.d8937c5c4f00aa0b4a29.jpg",
+    "index.html": "/shewebux/index.html",
+    "main.0abd63be.css.map": "/shewebux/static/css/main.0abd63be.css.map",
+    "main.acb805c3.js.map": "/shewebux/static/js/main.acb805c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0abd63be.css",
+    "static/js/main.acb805c3.js"
+  ]
+}
